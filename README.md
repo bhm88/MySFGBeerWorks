@@ -1,1 +1,1 @@
-# MySFGBeerWorks
+# MySFGBeerWorks example project
